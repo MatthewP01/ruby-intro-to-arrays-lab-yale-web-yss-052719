@@ -20,5 +20,5 @@ end
 
 def last_element(array)
   last_element_arr = array[-1]
-  return third_element_arr
+  return last_element_arr
 end
