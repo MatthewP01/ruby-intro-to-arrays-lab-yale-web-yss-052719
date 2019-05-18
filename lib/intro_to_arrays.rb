@@ -8,7 +8,7 @@ def array_with_two_elements
   return coin
 end
 
-def first_element(coin)
+def first_element(array)
   coin 
   heads = coin[0]
   return heads
