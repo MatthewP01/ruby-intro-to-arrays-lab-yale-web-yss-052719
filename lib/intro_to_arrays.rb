@@ -11,5 +11,5 @@ end
 def first_element(array)
   array
   first_element_arr = array[0]
-  return heads
+  return first_element_arr
 end
