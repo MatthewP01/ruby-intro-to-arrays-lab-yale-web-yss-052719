@@ -17,3 +17,8 @@ def third_element(array)
   third_element_arr = array[2]
   return third_element_arr
 end
+
+def last_element(array)
+  last_element_arr = array[2]
+  return third_element_arr
+end
