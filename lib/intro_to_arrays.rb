@@ -5,4 +5,5 @@ end
 
 def array_with_two_elements
   coin = ["heads", "tails"]
+  return coin
 end
