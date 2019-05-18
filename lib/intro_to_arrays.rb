@@ -24,6 +24,6 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  last_element_arr = array[-1]
+  first_element_arr = array.first
   return last_element_arr
 end
