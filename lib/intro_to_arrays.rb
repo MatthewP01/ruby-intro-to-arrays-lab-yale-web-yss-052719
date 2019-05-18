@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  coin
-  heads = coin[0]
+  array
+  first_element = coin[0]
   return heads
 end
