@@ -29,6 +29,6 @@ def first_element_with_array_methods(array)
 end
 
 def last_element(array)
-  last_element_arr = array.last
-  return last_element_arr
+  last_element_ar = array.last
+  return last_element_ar
 end
