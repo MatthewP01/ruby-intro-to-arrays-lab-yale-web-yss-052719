@@ -10,6 +10,6 @@ end
 
 def first_element
   coin = ["heads", "tails"]
-  heads = coin.first
+  heads = coin[0]
   return heads
 end
