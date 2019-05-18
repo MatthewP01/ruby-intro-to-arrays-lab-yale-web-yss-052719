@@ -10,6 +10,6 @@ end
 
 def first_element(array)
   array
-  first_element = coin[0]
+  first_element_arr = array[0]
   return heads
 end
