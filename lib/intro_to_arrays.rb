@@ -14,6 +14,6 @@ def first_element(array)
 end
 
 def third_element(array)
-  third_element_arr = array[4]
+  third_element_arr = array[2]
   return third_element_arr
 end
