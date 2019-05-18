@@ -11,5 +11,5 @@ end
 def first_element
   coin = ["heads", "tails"]
   heads = coin.first
-  return coin
+  return heads
 end
