@@ -9,7 +9,12 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  array
   first_element_arr = array[0]
   return first_element_arr
+end
+
+def third_element(array)
+
+
+
 end
