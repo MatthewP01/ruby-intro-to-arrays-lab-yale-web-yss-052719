@@ -16,6 +16,4 @@ end
 def third_element(array)
   third_element_arr = array[4]
   return third_element_arr
-
-
 end
