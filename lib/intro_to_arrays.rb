@@ -22,3 +22,8 @@ def last_element(array)
   last_element_arr = array[-1]
   return last_element_arr
 end
+
+def first_element_with_array_methods(array)
+  last_element_arr = array[-1]
+  return last_element_arr
+end
